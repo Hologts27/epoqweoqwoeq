@@ -8,7 +8,7 @@ _G.targetPart = "Head"
 _G.bindEnabled = false
 _G.bind = Enum.KeyCode.KeypadMultiply -- use the keycode reference: https://developer.roblox.com/en-us/api-reference/enum/KeyCode, this keydisables aimbot
 
-_G.FOV = 49
+_G.FOV = 90
 
 -- This is primarily useful in first person shooters, note, wallbang will not work when you disable this.
 local RAYCAST_ENABLED = true
